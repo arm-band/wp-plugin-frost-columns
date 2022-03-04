@@ -154,7 +154,7 @@ STL;
         return $columns;
     }
     /**
-     * 欄としての列の出力
+     * 追加した列に実際の値を表示させる
      *
      * @param string $content     : 出力するコンテンツ
      * @param string $column_name : 列名
